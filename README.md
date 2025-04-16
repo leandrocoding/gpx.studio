@@ -9,7 +9,7 @@
 
 This repository contains the source code of the website.
 
-## Contributing
+## Contributing 
 
 Please create an issue if you find a bug or have a feature request.
 
